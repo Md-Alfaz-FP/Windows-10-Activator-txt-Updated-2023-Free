@@ -1,6 +1,3 @@
 "# Windows-Activator-txt"
-please copy the text and then past it into Notepad    
- save it as Windows.cmd
-right click run as administrator
-it will take some time
- if the first note work try the second one
+Download the file right click on it then click on Run as administrator it will take some time and your windows will activate
+if its not work try the second file
